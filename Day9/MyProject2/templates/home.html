@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2 class="title"><a href="#">Welcome to Homepage</a></h2>
+<br>
+<form action="success" method="post">
+    {% csrf_token %}
+    <h3>Registration Form</h3>
+    <table>
+        <tr>
+            <td>
+                <label for="fname">First Name</label>
+            </td>
+            <td>
+                <input type="text" name="fname" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="lname">Last Name</label>
+            </td>
+            <td>
+                <input type="text" name="lname" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="username">Username</label>
+            </td>
+            <td>
+                <input type="text" name="uname" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="email">Email</label>
+            </td>
+            <td>
+                <input type="email" name="mail" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="pwd">Password</label>
+            </td>
+            <td>
+                <input type="password" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="pwd">Re-type Password</label>
+            </td>
+            <td>
+                <input type="password" required>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <input type="submit" value="Submit">
+</form>
+{% endblock %}
+                    
+                    
