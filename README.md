@@ -7,6 +7,8 @@
 
 # Day 2
 
+![Output](https://user-images.githubusercontent.com/84786243/120980535-55975380-c794-11eb-9b60-2a7cf0355949.png)
+
 # Day 3
 
 # Day 4
