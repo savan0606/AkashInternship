@@ -59,3 +59,9 @@ MyProject2(Theme integration in django)
 ![Screenshot (185)](https://user-images.githubusercontent.com/84786243/120983761-a2c8f480-c797-11eb-83c9-7fb422e11652.png)
 ![Screenshot (186)](https://user-images.githubusercontent.com/84786243/120983784-a8263f00-c797-11eb-8a73-9ea591fdf352.png)
 ![Screenshot (187)](https://user-images.githubusercontent.com/84786243/120983807-ad838980-c797-11eb-8d5c-4c5006155238.png)
+
+# Day 9
+Registration form
+
+![Screenshot (194)](https://user-images.githubusercontent.com/84786243/120993218-f4c24800-c7a0-11eb-8bda-fc0ac299a3bc.png)
+![Screenshot (275)](https://user-images.githubusercontent.com/84786243/120993238-f8ee6580-c7a0-11eb-8e98-8044c3d967f4.png)
