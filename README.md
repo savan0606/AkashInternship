@@ -69,13 +69,13 @@ Registration form
 # Day 10
 
 Create Superuser
-![Screenshot (280)](https://user-images.githubusercontent.com/84786243/121235190-355db680-c8b2-11eb-899f-6283e5998b68.png)
-
-Made Migration for models
 ![Screenshot (279)](https://user-images.githubusercontent.com/84786243/121235185-3393f300-c8b2-11eb-8971-31aaa4767a72.png)
 
-Add data through admin panel
+Made Migration for models
 ![Screenshot (278)](https://user-images.githubusercontent.com/84786243/121235201-37c01080-c8b2-11eb-95cc-ccca4b67213a.png)
 
-Display data to uservside
+Add data through admin panel
 ![Screenshot (281)](https://user-images.githubusercontent.com/84786243/121235193-368ee380-c8b2-11eb-9e3e-463f27f53ea8.png)
+
+Display data to user side
+![Screenshot (280)](https://user-images.githubusercontent.com/84786243/121235190-355db680-c8b2-11eb-899f-6283e5998b68.png)
