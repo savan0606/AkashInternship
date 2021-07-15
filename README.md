@@ -65,3 +65,17 @@ Registration form
 
 ![Screenshot (194)](https://user-images.githubusercontent.com/84786243/120993218-f4c24800-c7a0-11eb-8bda-fc0ac299a3bc.png)
 ![Screenshot (275)](https://user-images.githubusercontent.com/84786243/120993238-f8ee6580-c7a0-11eb-8e98-8044c3d967f4.png)
+
+# Day 10
+
+Create Superuser
+![Screenshot (279)](https://user-images.githubusercontent.com/84786243/121235185-3393f300-c8b2-11eb-8971-31aaa4767a72.png)
+
+Made Migration for models
+![Screenshot (278)](https://user-images.githubusercontent.com/84786243/121235201-37c01080-c8b2-11eb-95cc-ccca4b67213a.png)
+
+Add data through admin panel
+![Screenshot (281)](https://user-images.githubusercontent.com/84786243/121235193-368ee380-c8b2-11eb-9e3e-463f27f53ea8.png)
+
+Display data to user side
+![Screenshot (280)](https://user-images.githubusercontent.com/84786243/121235190-355db680-c8b2-11eb-899f-6283e5998b68.png)
